@@ -10,7 +10,7 @@ The dataset used is breast_cancer_dataset.csv.
 
 It contains multiple features extracted from breast tumor samples.
 
-The target variable indicates whether the tumor is Benign (0) or Malignant (1).
+The target variable indicates whether the tumor is Benign (2) or Malignant (4).
 
 🛠️ Installation
 
