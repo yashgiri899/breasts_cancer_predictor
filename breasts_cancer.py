@@ -32,7 +32,7 @@ def plot_confusion_matrix(cm):
 # Main function
 def main():
     # Load data
-    file_path = "breast_cancer.csv" # Change if needed
+    file_path = "breast_cancer_dataset.csv" # Change if needed
     x, y = load_data(file_path)
 
     # Split data
